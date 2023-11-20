@@ -1,2 +1,2 @@
 # C++
-Ejercicios de C++ de Arbol Binario
+Ejercicios de C++ de Árbol Binario
